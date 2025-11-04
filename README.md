@@ -1,2 +1,2 @@
 # BSE_DS
-Repo for predictive machine learning project, part of data science course at Barcelona School of Economics (Economics MSc program)
+Barcelona School of Economics (Economics MSc program) repo containing projects, code from classes, and assignments
